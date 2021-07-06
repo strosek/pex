@@ -135,4 +135,3 @@ use crate::problem::largest_multiple_of_three;
 fn main() {
     println!("Largest multiple of three: {}", largest_multiple_of_three(vec![1, 2, 3]));
 }
-
